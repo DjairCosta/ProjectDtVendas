@@ -1,0 +1,147 @@
+!SESSION 2021-05-08 11:54:15.891 -----------------------------------------------
+eclipse.buildId=4.10.0.202103111225
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-05-08 11:54:38.536
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-08 11:54:38.537
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fccf49e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7abcc0da,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:15.693
+!MESSAGE Project ecommerce already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:15.695
+!MESSAGE Project dscatalog already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.142
+!MESSAGE Project myprojectjsf already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.143
+!MESSAGE Project myprojectjsf already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.143
+!MESSAGE Project myprojectjsf already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.144
+!MESSAGE Project udemyplaymusic-parent already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.146
+!MESSAGE Project playmusic already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.146
+!MESSAGE Project customer-save-api already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.147
+!MESSAGE Project customer-save-service already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.147
+!MESSAGE Project music-add-api already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.148
+!MESSAGE Project music-add-service already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.148
+!MESSAGE Project music-upload-api already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.149
+!MESSAGE Project music-upload-service already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.149
+!MESSAGE Project listener-music-api already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.150
+!MESSAGE Project listener-music-service already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-05-08 11:59:16.150
+!MESSAGE Project ecommerce already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-05-08 11:59:25.972
+!MESSAGE The artifact org.firebirdsql.jdbc:jaybird:pom:2.2.15 has been relocated to org.firebirdsql.jdbc:jaybird-jdk17:pom:2.2.15
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-05-08 12:00:03.329
+!MESSAGE The artifact org.firebirdsql.jdbc:jaybird:pom:2.2.15 has been relocated to org.firebirdsql.jdbc:jaybird-jdk17:pom:2.2.15
+
+!ENTRY org.eclipse.ui 2 2 2021-05-08 12:01:06.384
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-05-08 12:13:40.495 -----------------------------------------------
+eclipse.buildId=4.10.0.202103111225
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-05-08 12:13:53.121
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-08 12:13:53.121
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5308e79d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2431050d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2021-05-08 12:15:09.758
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-05-08 12:30:22.501 -----------------------------------------------
+eclipse.buildId=4.10.0.202103111225
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-05-08 12:30:38.667
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-08 12:30:38.667
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f8cd5fc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2c465259,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2021-05-08 12:30:51.061
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

@@ -1,0 +1,227 @@
+2021-05-08 11:54:42,803 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-08 11:59:15,692 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project ecommerce already exists
+2021-05-08 11:59:15,695 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project dscatalog already exists
+2021-05-08 11:59:16,142 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project myprojectjsf already exists
+2021-05-08 11:59:16,143 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project myprojectjsf already exists
+2021-05-08 11:59:16,143 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project myprojectjsf already exists
+2021-05-08 11:59:16,144 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project udemyplaymusic-parent already exists
+2021-05-08 11:59:16,145 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project playmusic already exists
+2021-05-08 11:59:16,146 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project customer-save-api already exists
+2021-05-08 11:59:16,147 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project customer-save-service already exists
+2021-05-08 11:59:16,147 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project music-add-api already exists
+2021-05-08 11:59:16,147 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project music-add-service already exists
+2021-05-08 11:59:16,148 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project music-upload-api already exists
+2021-05-08 11:59:16,148 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project music-upload-service already exists
+2021-05-08 11:59:16,149 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project listener-music-api already exists
+2021-05-08 11:59:16,149 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project listener-music-service already exists
+2021-05-08 11:59:16,150 [Worker-6: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project ecommerce already exists
+2021-05-08 11:59:22,089 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daytech:ecommerce:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Ecommerce/BackEnd/pom.xml.
+2021-05-08 11:59:22,550 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.marcelsouzav.udemy.playmusic:udemyplaymusic-parent:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/pom.xml.
+2021-05-08 11:59:22,878 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.music.add.api:music-add-api:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-add-api/pom.xml.
+2021-05-08 11:59:23,954 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daytech:Aderf:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/Aderf/backend/pom.xml.
+2021-05-08 11:59:24,170 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.playmusic:playmusic:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/play-music/pom.xml.
+2021-05-08 11:59:24,627 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.music.upload.api:music-upload-api:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-upload-api/pom.xml.
+2021-05-08 11:59:24,928 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daytec:dscatalog:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/backend/pom.xml.
+2021-05-08 11:59:25,207 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.music.upload.service:music-upload-service:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-upload-service/pom.xml.
+2021-05-08 11:59:25,438 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.listener.music.api:listener-music-api:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/listener-music-api/pom.xml.
+2021-05-08 11:59:25,668 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: myprojectjsf:myprojectjsf:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/myprojectjsf/pom.xml.
+2021-05-08 11:59:25,970 [Worker-6: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.firebirdsql.jdbc:jaybird:pom:2.2.15 has been relocated to org.firebirdsql.jdbc:jaybird-jdk17:pom:2.2.15
+2021-05-08 11:59:26,158 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.customer.save.api:customer-save-api:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/customer-save-api/pom.xml.
+2021-05-08 11:59:27,403 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.br.alcateiadev.leitorvendedor:leitor-vendedor:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/leitor-vendedor/pom.xml.
+2021-05-08 11:59:28,244 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.br.alcateiadev.leitorftp:leitor-ftp:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/leitor-ftp/pom.xml.
+2021-05-08 11:59:28,470 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.listener.music.service:listener-music-service:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/listener-music-service/pom.xml.
+2021-05-08 11:59:28,772 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.br.alcateiadev.gravarvenda:gravar-venda:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/gravar-venda/pom.xml.
+2021-05-08 11:59:28,929 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.music.add.service:music-add-service:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-add-service/pom.xml.
+2021-05-08 11:59:29,287 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.daytech:sigra:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/sigra/backend/pom.xml.
+2021-05-08 11:59:29,427 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.br.alcateiadev.leitorvenda:leitor-venda:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/leitor-venda/pom.xml.
+2021-05-08 11:59:29,585 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.marcelsouzav.udemy.customer.save.service:customer-save-service:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/customer-save-service/pom.xml.
+2021-05-08 11:59:29,718 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.br.alcateiadev.processardados:processar-dados:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/processar-dados/pom.xml.
+2021-05-08 11:59:29,908 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.br.alcateiadev.leitorvendedor:gnus-parent:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/pom.xml.
+2021-05-08 11:59:30,015 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.br.alcateiadev.gravarvendedor:gravar-vendedor:0.0.1-SNAPSHOT @ /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/gravar-vendedor/pom.xml.
+2021-05-08 11:59:34,712 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sigra/src/main/java
+2021-05-08 11:59:34,713 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sigra/src/main/resources
+2021-05-08 11:59:34,715 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sigra/src/main/resources
+2021-05-08 11:59:34,716 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sigra/src/test/java
+2021-05-08 11:59:35,144 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-save-service/src/main/java
+2021-05-08 11:59:35,145 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-save-service/src/main/resources
+2021-05-08 11:59:35,145 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-save-service/src/main/resources
+2021-05-08 11:59:35,146 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-save-service/src/test/java
+2021-05-08 11:59:35,488 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /listener-music-service/src/main/java
+2021-05-08 11:59:35,488 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /listener-music-service/src/main/resources
+2021-05-08 11:59:35,489 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /listener-music-service/src/main/resources
+2021-05-08 11:59:35,489 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /listener-music-service/src/test/java
+2021-05-08 11:59:35,894 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gravar-vendedor/src/main/java
+2021-05-08 11:59:35,894 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gravar-vendedor/src/main/resources
+2021-05-08 11:59:35,894 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gravar-vendedor/src/main/resources
+2021-05-08 11:59:35,895 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gravar-vendedor/src/test/java
+2021-05-08 11:59:36,211 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/main/java
+2021-05-08 11:59:36,212 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/main/resources
+2021-05-08 11:59:36,212 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/main/resources
+2021-05-08 11:59:36,213 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/test/java
+2021-05-08 11:59:36,321 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dscatalog/src/main/java
+2021-05-08 11:59:36,321 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dscatalog/src/main/resources
+2021-05-08 11:59:36,321 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dscatalog/src/main/resources
+2021-05-08 11:59:36,322 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dscatalog/src/test/java
+2021-05-08 11:59:36,622 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-add-api/src/main/java
+2021-05-08 11:59:36,622 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-add-api/src/main/resources
+2021-05-08 11:59:36,622 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-add-api/src/main/resources
+2021-05-08 11:59:36,623 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-add-api/src/test/java
+2021-05-08 11:59:36,831 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Aderf/src/main/java
+2021-05-08 11:59:36,831 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Aderf/src/main/resources
+2021-05-08 11:59:36,831 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Aderf/src/main/resources
+2021-05-08 11:59:36,832 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Aderf/src/test/java
+2021-05-08 11:59:36,973 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leitor-venda/src/main/java
+2021-05-08 11:59:36,973 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leitor-venda/src/main/resources
+2021-05-08 11:59:36,974 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leitor-venda/src/main/resources
+2021-05-08 11:59:36,975 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leitor-venda/src/test/java
+2021-05-08 11:59:37,258 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /processar-dados/src/main/java
+2021-05-08 11:59:37,258 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /processar-dados/src/main/resources
+2021-05-08 11:59:37,258 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /processar-dados/src/main/resources
+2021-05-08 11:59:37,259 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /processar-dados/src/test/java
+2021-05-08 11:59:37,538 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myprojectjsf/src/main/java
+2021-05-08 11:59:37,538 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myprojectjsf/src/test/java
+2021-05-08 11:59:37,608 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-add-service/src/main/java
+2021-05-08 11:59:37,608 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-add-service/src/main/resources
+2021-05-08 11:59:37,609 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-add-service/src/main/resources
+2021-05-08 11:59:37,609 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-add-service/src/test/java
+2021-05-08 11:59:37,910 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /listener-music-api/src/main/java
+2021-05-08 11:59:37,914 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /listener-music-api/src/main/resources
+2021-05-08 11:59:37,917 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /listener-music-api/src/main/resources
+2021-05-08 11:59:37,917 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /listener-music-api/src/test/java
+2021-05-08 11:59:38,276 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gravar-venda/src/main/java
+2021-05-08 11:59:38,276 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gravar-venda/src/main/resources
+2021-05-08 11:59:38,276 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gravar-venda/src/main/resources
+2021-05-08 11:59:38,277 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gravar-venda/src/test/java
+2021-05-08 11:59:38,613 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leitor-ftp/src/main/java
+2021-05-08 11:59:38,613 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leitor-ftp/src/main/resources
+2021-05-08 11:59:38,613 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leitor-ftp/src/main/resources
+2021-05-08 11:59:38,614 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leitor-ftp/src/test/java
+2021-05-08 11:59:38,833 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leitor-vendedor/src/main/java
+2021-05-08 11:59:38,834 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leitor-vendedor/src/main/resources
+2021-05-08 11:59:38,834 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leitor-vendedor/src/main/resources
+2021-05-08 11:59:38,835 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leitor-vendedor/src/test/java
+2021-05-08 11:59:39,051 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /playmusic/src/main/java
+2021-05-08 11:59:39,052 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /playmusic/src/main/resources
+2021-05-08 11:59:39,052 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /playmusic/src/main/resources
+2021-05-08 11:59:39,053 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /playmusic/src/test/java
+2021-05-08 11:59:39,220 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-upload-api/src/main/java
+2021-05-08 11:59:39,220 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-upload-api/src/main/resources
+2021-05-08 11:59:39,221 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-upload-api/src/main/resources
+2021-05-08 11:59:39,222 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-upload-api/src/test/java
+2021-05-08 11:59:39,404 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-upload-service/src/main/java
+2021-05-08 11:59:39,405 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-upload-service/src/main/resources
+2021-05-08 11:59:39,405 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /music-upload-service/src/main/resources
+2021-05-08 11:59:39,406 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /music-upload-service/src/test/java
+2021-05-08 11:59:39,613 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-save-api/src/main/java
+2021-05-08 11:59:39,614 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-save-api/src/main/resources
+2021-05-08 11:59:39,614 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-save-api/src/main/resources
+2021-05-08 11:59:39,614 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-save-api/src/test/java
+2021-05-08 11:59:39,805 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 38 project(s) in 26 sec
+2021-05-08 11:59:44,325 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:44,326 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 11:59:44,333 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 11:59:44,358 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:44,362 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:44,362 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 11:59:44,362 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/Aderf/backend/src/test/resources
+2021-05-08 11:59:46,618 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:46,620 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:46,669 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:46,673 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:46,673 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/customer-save-api/src/test/resources
+2021-05-08 11:59:48,837 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:48,838 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:48,841 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:48,849 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:48,849 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/customer-save-service/src/test/resources
+2021-05-08 11:59:49,791 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:49,792 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 11:59:49,793 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:49,797 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:49,797 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/backend/src/test/resources
+2021-05-08 11:59:50,499 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:50,500 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 11:59:50,502 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 11:59:50,503 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:50,506 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:50,506 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 11:59:50,506 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Ecommerce/BackEnd/src/test/resources
+2021-05-08 11:59:51,796 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:51,797 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:51,859 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:51,866 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:51,867 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/gravar-venda/src/test/resources
+2021-05-08 11:59:53,084 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:53,084 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:53,090 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:53,092 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:53,093 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/gravar-vendedor/src/test/resources
+2021-05-08 11:59:54,001 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:54,001 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:54,007 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:54,011 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:54,011 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/leitor-ftp/src/test/resources
+2021-05-08 11:59:55,334 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:55,335 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:55,343 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:55,349 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:55,350 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/leitor-venda/src/test/resources
+2021-05-08 11:59:56,467 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:56,468 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:56,470 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:56,494 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:56,494 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/leitor-vendedor/src/test/resources
+2021-05-08 11:59:57,706 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:57,706 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:57,708 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:57,712 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:57,712 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/listener-music-api/src/test/resources
+2021-05-08 11:59:59,270 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:59,270 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 11:59:59,272 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 11:59:59,274 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 11:59:59,275 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/listener-music-service/src/test/resources
+2021-05-08 12:00:00,116 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:00,116 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 12:00:00,122 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 12:00:00,126 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:00,128 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-add-api/src/test/resources
+2021-05-08 12:00:01,334 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:01,335 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 12:00:01,339 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 12:00:01,340 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:01,340 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-add-service/src/test/resources
+2021-05-08 12:00:02,068 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:02,068 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 12:00:02,075 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 12:00:02,079 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:02,079 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-upload-api/src/test/resources
+2021-05-08 12:00:02,768 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:02,769 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 12:00:02,773 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 12:00:02,776 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:02,776 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/music-upload-service/src/test/resources
+2021-05-08 12:00:03,328 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.firebirdsql.jdbc:jaybird:pom:2.2.15 has been relocated to org.firebirdsql.jdbc:jaybird-jdk17:pom:2.2.15
+2021-05-08 12:00:03,366 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:03,367 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/myprojectjsf/src/main/resources
+2021-05-08 12:00:03,369 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:03,369 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/myprojectjsf/src/test/resources
+2021-05-08 12:00:04,519 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:04,524 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 12:00:04,530 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 12:00:04,599 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:04,599 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/DayTECH/Mobile/playmusic-master/play-music/src/test/resources
+2021-05-08 12:00:05,457 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:05,457 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-08 12:00:05,464 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 12:00:05,466 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:05,466 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/alcateiadev-microservices-importacao-dados-massa-master/processar-dados/src/test/resources
+2021-05-08 12:00:05,903 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:05,903 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 12:00:05,904 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-08 12:00:05,907 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-08 12:00:05,910 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-08 12:00:05,910 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-08 12:00:05,910 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/proteus/Documents/Development/Projects/sigra/backend/src/test/resources
+2021-05-08 12:13:57,681 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-08 12:30:42,840 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
