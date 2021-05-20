@@ -15,6 +15,18 @@
    id="svg32"
    sodipodi:docname="ds_dark.svg"
    inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:198.847px;line-height:1.25;font-family:sans-serif;fill:#6c5353;fill-opacity:1;stroke:none;stroke-width:1.03567"
+     x="5.3034725"
+     y="152.45946"
+     id="text46-3"
+     transform="scale(0.99721002,1.0027978)"><tspan
+       id="tspan44-6"
+       x="5.3034725"
+       y="152.45946"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:198.847px;font-family:'Franklin Gothic Heavy Negrotp';-inkscape-font-specification:'Franklin Gothic Heavy Negrotp Bold';fill:#6c5353;stroke-width:1.03567"
+       sodipodi:role="line">DEV</tspan></text>
   <metadata
      id="metadata38">
     <rdf:RDF>
@@ -28,15 +40,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs36">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 81 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1460 : 81 : 1"
-       inkscape:persp3d-origin="730 : 54 : 1"
-       id="perspective104" />
-  </defs>
+     id="defs36" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -51,8 +55,8 @@
      id="namedview34"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="790"
-     inkscape:cy="-79"
+     inkscape:cx="730"
+     inkscape:cy="-239"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -60,36 +64,14 @@
      inkscape:document-rotation="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';word-spacing:0px;white-space:pre;inline-size:0;fill:#333333;fill-opacity:1;stroke:none"
-     x="74"
-     y="44"
-     id="text42"
-     transform="matrix(1.4843424,0,0,1.2492945,-120.97689,113.75922)"><tspan
-       id="tspan40"
-       x="74"
-       y="44"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#333333">DEV</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:218.863px;line-height:1.25;font-family:sans-serif;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.13991"
-     x="375.91757"
-     y="163.97479"
+     style="font-style:normal;font-weight:normal;font-size:196.096px;line-height:1.25;font-family:sans-serif;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.02134"
+     x="456.13193"
+     y="151.03763"
      id="text46"
-     transform="scale(1.0372769,0.96406273)"><tspan
+     transform="scale(0.99554179,1.0044782)"><tspan
        id="tspan44"
-       x="375.91757"
-       y="163.97479"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:218.863px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#ff9955;stroke-width:1.13991"
-       sodipodi:role="line" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';word-spacing:0px;white-space:pre;inline-size:0;fill:#ff7f2a;fill-opacity:1;stroke:none"
-     x="74"
-     y="44"
-     id="text42-9"
-     transform="matrix(1.631659,0,0,1.2492945,284.79645,112.17865)"><tspan
-       id="tspan40-4"
-       x="74"
-       y="44"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ff7f2a">DAYTECH</tspan></text>
+       x="456.13193"
+       y="151.03763"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:196.096px;font-family:'Franklin Gothic Heavy Negrotp';-inkscape-font-specification:'Franklin Gothic Heavy Negrotp Bold';fill:#ff9955;stroke-width:1.02134"
+       sodipodi:role="line">DAYTECH</tspan></text>
 </svg>
